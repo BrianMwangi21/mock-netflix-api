@@ -1,0 +1,5 @@
+server.port=4000
+spring.jpa.hibernate.ddl-auto=create-drop
+spring.datasource.url=jdbc:mysql://localhost:3306/mock-netflix-api
+spring.datasource.username=root
+spring.datasource.password=root
